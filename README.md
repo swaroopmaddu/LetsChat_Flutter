@@ -2,9 +2,9 @@
  A Chat application using Flutter with Google Authentication and image sharing capability.
  
  <center>
-  <p float="left>
-    <img src="images/login.jpg" width="100" />
-  <img src="images/chatscreen.jpg" width="100" /> 
+  <p float="right>
+    <img src="images/login.jpg" />
+  <img src="images/chatscreen.jpg" /> 
   </p>
  </center>
 
