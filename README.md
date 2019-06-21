@@ -1,12 +1,10 @@
 # LetsChat_Flutter
  A Chat application using Flutter with Google Authentication and image sharing capability.
  
- <center>
+
   <p float="right>
-    <img src="images/login.jpg" />
-  <img src="images/chatscreen.jpg" /> 
-  </p>
- </center>
+    <img src="images/login.jpg"/>
+ </p>
 
 ## Getting started
  * Setup your Flutter studio ready for development.
