@@ -1,5 +1,5 @@
 # LetsChat_Flutter
- A Chat application using Flutter with Google Authentication and image sharing capability.
+ A Chat application using Flutter with Google Authentication and image sharing capability where connected users can share messages and images using Firebase. It will be having two-screens, in first screen (login screen), we’ll have a screen where a user can login using Google account and in the second screen you can send messages and images.
  
  For help getting started with Flutter, view the online <a href="https://flutter.dev/">documentation</a>.
 
