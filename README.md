@@ -17,6 +17,17 @@
  * Setup your Flutter studio ready for development.
  * Go to http://console.firebase.google.com/ and create and register your application in firebase follow the instructions given there while registering your application.
  * Place your google-services.json file in android/app 
+ 
+## Dependencies
+
+  * google_sign_in: ^4.0.1+3
+  * firebase_auth: ^0.11.1
+  * firebase_analytics: ^3.0.3
+  * firebase_storage: ^3.0.2
+  * image_picker: ^0.6.0+10
+  * firebase_database: ^3.0.2
+  * flutter_auth_buttons: ^0.5.0
+ 
 ## Installing
   * In the command terminal, run the following commands:
     ```  
