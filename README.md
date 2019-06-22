@@ -20,14 +20,14 @@
 ## Installing
   * In the command terminal, run the following commands:
     ```  
-     $ git clone git@github.com:rohan20/flutter-chat-app.git
+     $ git clone git@github.com:swaroopmaddu/LetsChat_Flutter
      $ cd flutter-chat-app/
      $ flutter run
     ```
   * In android studio go to File > New > Project from Version Control > Git
   
       ```
-       * Copy Paste https://github.com/swaroop623/LetsChat_Flutter/ in URL
+       * Copy Paste https://github.com/swaroopmaddu/LetsChat_Flutter/ in URL
        * Proceed to Clone
        * Close the Project and open it again
       ```
