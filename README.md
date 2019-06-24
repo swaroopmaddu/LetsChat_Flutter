@@ -32,7 +32,7 @@
   * In the command terminal, run the following commands:
     ```  
      $ git clone git@github.com:swaroopmaddu/LetsChat_Flutter
-     $ cd flutter-chat-app/
+     $ cd LetsChat_Flutter/
      $ flutter run
     ```
   * In android studio go to File > New > Project from Version Control > Git
