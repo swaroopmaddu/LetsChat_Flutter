@@ -7,7 +7,7 @@
 
  
 <div>
-  <img align="left" src="images/login.jpg" alt="Login screen" title="Login screen" hspace="60"/>
+  <img align="left" src="images/login.jpg" alt="Login screen" title="Login screen" hspace="55"/>
   <img align="left" src="images/chatscreen.jpg" alt="Chat screen" title="Chat screen" hspace="50"/>
 </div>
 
