@@ -5,13 +5,12 @@
 
  You can check out the corresponding Google code lab <a href="https://codelabs.developers.google.com/codelabs/flutter/index.html#8">here</a>.
 
- 
-<div>
-  <img align="left" src="images/login.jpg" alt="Login screen" title="Login screen" hspace="50"/>
-  <img align="left" src="images/chatscreen.jpg" alt="Chat screen" title="Chat screen" hspace="50"/>
-</div style="margin-bottom:70px">
+ <p align="center">
+  <img align="left" src="images/login.jpg" alt="Login screen" title="Login screen">
+  <img align="left" src="images/chatscreen.jpg" alt="Chat screen" title="Chat screen">
+</p>
 
-## 
+
 
 ## Getting started
  * Setup your Flutter studio ready for development.
