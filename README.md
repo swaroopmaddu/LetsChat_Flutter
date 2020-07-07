@@ -20,6 +20,8 @@
  * Go to http://console.firebase.google.com/ and create and register your application in firebase follow the instructions given there while registering your application.
  * Place your google-services.json file in android/app 
  
+ </br>
+ 
 ## Dependencies
 
   * google_sign_in: ^4.0.1+3
