@@ -6,10 +6,8 @@
  You can check out the corresponding Google code lab <a href="https://codelabs.developers.google.com/codelabs/flutter/index.html#8">here</a>.
 
  <p align="center">
-  <img align="left" src="images/login.jpg" alt="Login screen" title="Login screen"/>
-  <img align="left" src="images/chatscreen.jpg" alt="Chat screen" title="Chat screen"/>
+   <img align="left" src="images/login.jpg" height="600" width="300"/>
  </p>
-
 
 
 ## Getting started
